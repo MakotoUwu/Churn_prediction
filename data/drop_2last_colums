@@ -1,0 +1,12 @@
+import pandas as pd
+
+# Loading the dataset
+data = pd.read_csv("BankChurners.csv")
+
+# Drop the last two columns
+data_modified = data.iloc[:, :-2]
+
+# Save the modified data to a new CSV file
+output_path = "BankChurners_clean.csv"
+
+data_modified.to_csv(output_path, index=False)
