@@ -44,27 +44,25 @@ The dataset can be downloaded from the provided link: [Credit Card Customers](ht
 ---
 
 #### Installation & Usage:
-(Here you can provide steps for users to set up the project and run the code.)
 
 ---
 
 #### Contributors:
-(List of contributors, if any.)
+
 
 ---
 
 #### Timeline:
-(Provide a timeline of the project.)
+
 
 ---
 
 #### Personal Situation:
-(Any personal notes or situations related to the project.)
+
 
 ---
 
 #### Visuals:
-(You can include visuals, plots, or links to them here.)
 
 ---
 
