@@ -30,7 +30,7 @@ Churn prediction is a challenge posed to understand and tackle the issue of clie
 ---
 
 #### Dataset:
-The dataset can be downloaded from the provided link: [Credit Card Customers](#) (Please replace `#` with the actual link).
+The dataset can be downloaded from the provided link: [Credit Card Customers](https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers)
 
 ---
 
