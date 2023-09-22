@@ -29,15 +29,6 @@ Churn prediction is a challenge posed to understand and tackle the issue of clie
 
 ---
 
-#### Must-have Features:
-- Implementation of machine learning models according to the client's requirements.
-- Clearly defined performance metrics of the model.
-- Evaluation of the model's performance and definition of its limitations.
-- Exploration of different unsupervised learning algorithms.
-- Explanation of the results obtained using unsupervised learning.
-
----
-
 #### Dataset:
 The dataset can be downloaded from the provided link: [Credit Card Customers](#) (Please replace `#` with the actual link).
 
