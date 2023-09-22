@@ -79,11 +79,8 @@ The dataset can be downloaded from the provided link: [Credit Card Customers](#)
 ---
 
 #### Recommendations:
-1. **Targeted Marketing Campaigns**: Based on the characteristics of clients identified as likely to churn, design targeted marketing campaigns to offer them incentives, discounts, or personalized deals. This can enhance customer loyalty and reduce the churn rate.
-2. **Feedback Mechanism**: Implement a feedback mechanism to understand why clients are leaving. Their feedback can provide invaluable insights into areas of improvement for the institution.
-3. **Regular Model Updates**: Machine learning models should be regularly updated with fresh data to ensure their accuracy remains high. Periodic retraining can help in adapting to any new patterns in customer behavior.
-4. **Client Segmentation**: The clusters identified through unsupervised learning can be further used for client segmentation. Designing specific campaigns for each segment can be more effective in client retention.
-5. **Enhance Customer Service**: Often, one of the main reasons for churn can be dissatisfaction with customer service. Improving customer service and offering dedicated helplines for grievance redressal can be beneficial.
-6. **Monitor Competitor Offerings**: Keep a close eye on the offerings and services provided by competitors. Matching or surpassing their offerings can be a way to retain clients who might be considering switching.
+Focus retention campaigns on customers with significant changes in transaction count or amount, as these might be indicators of churn.
+Offer personalized incentives to older customers or those with a high number of contacts in the last 12 months.
+Implement a feedback mechanism to proactively understand and address reasons for churn.
 
 ---
