@@ -87,13 +87,3 @@ The dataset can be downloaded from the provided link: [Credit Card Customers](#)
 6. **Monitor Competitor Offerings**: Keep a close eye on the offerings and services provided by competitors. Matching or surpassing their offerings can be a way to retain clients who might be considering switching.
 
 ---
-
-#### Evaluation Criteria:
-- Clean and readable code published on GitHub.
-- README adheres to the specified format.
-- An Exploratory Data Analysis (EDA) was performed.
-- Data was cleaned and preprocessed.
-- Justification for the chosen performance metrics.
-- Justification for the chosen model.
-- Explanation of the results and limitations of the algorithms.
-- Any effects of overfitting or underfitting were studied and addressed.
