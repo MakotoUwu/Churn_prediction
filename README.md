@@ -84,3 +84,9 @@ Offer personalized incentives to older customers or those with a high number of 
 Implement a feedback mechanism to proactively understand and address reasons for churn.
 
 ---
+
+#### Feature Importance: 
+The top features influencing customer churn include the total number of products held by the customer, changes in transaction count and amount, customer age, and the number of contacts in the last 12 months. These features can be targeted in retention campaigns.
+
+####
+Model Performance: The Gradient Boosting classifier has a slightly better performance compared to the Random Forest classifier. The AUC for Gradient Boosting is approximately 0.98, indicating excellent model performance.
