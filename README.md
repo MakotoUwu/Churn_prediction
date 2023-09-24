@@ -41,11 +41,11 @@ The financial sector is witnessing an alarming rate of customer churn, with inst
    git clone https://github.com/MakotoUwu/Churn_prediction.git
    ```
 2. Install all requirements
-			'''sh
+			```sh
 			pip install -r requirements.txt
-			'''
+			```
 3. Run main.py
-			'''
+			```
 			python main.py
-			'''
+			```
 
