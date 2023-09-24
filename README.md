@@ -45,7 +45,7 @@ The financial sector is witnessing an alarming rate of customer churn, with inst
 			pip install -r requirements.txt
 			```
 3. Run main.py
-			```
+			```sh
 			python main.py
 			```
 
