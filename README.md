@@ -50,10 +50,6 @@ The financial sector is witnessing an alarming rate of customer churn, with inst
 
 Open notebook in notebooks folder and you will see all date
 
-## Data Sources
-
-[Information about the data sources used in this project]
-
 ## 📊 Visuals
 
 ![logo](visuals/visuals.png)
