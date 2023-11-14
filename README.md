@@ -1,3 +1,4 @@
+
 # Churn Prediction 📉
 
 Predict customer churn with machine learning models and assist financial institutions in retaining their valuable clients.
@@ -17,8 +18,6 @@ Predict customer churn with machine learning models and assist financial institu
 - [📊 Visuals](#visuals)
 - [🤝 Contributors](#contributors)
 - [📅 Timeline](#timeline)
-- [📝 Personal Situation](#personal-situation)
-- [🙏 Acknowledgements](#acknowledgements)
 
 ## 📜 About the Project
 
@@ -26,8 +25,6 @@ The financial sector is witnessing an alarming rate of customer churn, with inst
 
 - Predict customers with a high likelihood of closing their bank accounts.
 - Group customers and define their characteristics for targeted marketing campaigns.
-
-## 🚀 Getting Started
 
 ### Prerequisites
 
@@ -49,4 +46,22 @@ The financial sector is witnessing an alarming rate of customer churn, with inst
    python main.py
    ```
 
+## Usage
 
+Open notebook in notebooks folder and you will see all date
+
+## Data Sources
+
+[Information about the data sources used in this project]
+
+## 📊 Visuals
+
+![logo](visuals/visuals.png)
+
+## 🤝 Contributors
+
+Oleksandr Tsepukh
+
+## 📅 Timeline
+
+This project was completed over a period of 4 days, demonstrating efficient and focused efforts in tackling this critical issue.
